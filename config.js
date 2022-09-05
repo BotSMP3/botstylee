@@ -118,7 +118,7 @@ global.owner = [
 	//  ['6281234288573'],
 	//['12546153210'],
 	//['6282319963657'],
-	['6282171240131', 'bot SMP N3', true]
+	['6282171240131', 'BOT SMPN3', true]
 	// [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -137,7 +137,7 @@ global.APIKeys = { // APIKey Here
 }
 // Sticker WM
 global.packname = 'ig : Beni_230\'Benniismael'
-global.author = 'BOT SMP N3 & GHOST'
+global.author = 'BOT SMPN3 & sergio'
 global.wm = 'BOTSTYLEE'
 global.nomorown = '6282171240131'
 global.multiplier = 69 // The higher, The harder levelup
