@@ -137,7 +137,7 @@ global.APIKeys = { // APIKey Here
 }
 // Sticker WM
 global.packname = 'ig : Beni_230\'Benniismael'
-global.author = 'BOT SMP N3 '
+global.author = 'BOT SMPN3 '
 global.wm = 'BOTSTYLEE'
 global.nomorown = '6282171240131'
 global.multiplier = 69 // The higher, The harder levelup
