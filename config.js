@@ -117,8 +117,8 @@ global.log = function log() {
 global.owner = [
 	//  ['6281234288573'],
 	//['12546153210'],
-	//['6282319963657'],
-	['6282171240131', 'SERGIO SIMAMORA', true]
+	//['6282171240131'],
+	['6282319963657', 'OWNER BOT STYLEE', true]
 	// [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -137,7 +137,7 @@ global.APIKeys = { // APIKey Here
 }
 // Sticker WM
 global.packname = 'ig : Beni_230\'Benniismael'
-global.author = 'BOT SMPN3 '
+global.author = 'BOT SMPN3 🤖'
 global.wm = 'BOTSTYLEE'
 global.nomorown = '6282171240131'
 global.multiplier = 69 // The higher, The harder levelup
